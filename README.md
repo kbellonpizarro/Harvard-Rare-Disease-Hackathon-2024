@@ -5,7 +5,7 @@ This is a repository with links to the projects completed during the inaugural H
 
 | Project Summary | Team  | Partner organization | Link |
 | :-------------: |:-----------------:| :-----------:| :-------------: |
-| Speech-to-Text and Speech-to-Speech for People Affected by Scanning Speech  | Team 25 | Hypertrophic Olivary Degeneration Association (HODA) | [Link](../tree/main/Team%2025) | 
+| Speech-to-Text and Speech-to-Speech for People Affected by Scanning Speech  | Team 25 | Hypertrophic Olivary Degeneration Association (HODA) | [Link](../main/Team%2025) | 
 | Analyzing ALD Targets and Current Therapeutics | Team 13     | ALD Connect | Link | 
 | Rare Connect: A platform bridging the gap between individuals affected by rare conditions, medical professionals, and research institutions      | RareConnect    | All  | Link | 
 | Characterizing FIG4 variants of unknown significance (VUS) using AlphaMissense | Team 7  | CureCMT4J | Link | 
