@@ -23,6 +23,8 @@ variants of unknown significance present in ClinVar as potentially pathogenic or
 
 ### Fig 1: Mutational landscape differences between CinVar (top) and AlphaMissense (bottom) pathogenicity predictions. ClinVar predictions are majority VUS (orange), while AlphaMissense classifies most VUS into benign or pathogenic.
 
+![alt text](link "Fig 1")
+
 We also examine the entire scope of potential missense mutations across Fig4 and use AlphaMissense to evaluate pathogenicity. When doing so, we see that missense mutations to residues 480 - 550 are high pathogenicity, which corresponds to the active site and a binding
 region of Vac14.
 
