@@ -59,35 +59,25 @@ path through our graph.
 
 Then for analyzing the biomarkers of a particular disease we create a measure of
 connectivity between the target gene and associated molecules in the pathway. In particular, we score the significance of each biomarker through the following equation: 
-P
+$\sum{_p}{_∈}{_p}{_a}{_t}{_h}{_w}{_a}{_y}{_s} {\frac{1}{Length(p)^2}}$
 
-p∈pathways
-1
-Length(p)
-2 where pathways are different pathways
-between the target gene and the molecule. We then provide a ranked list of
-molecules to explore.
+where $pathways$ are different pathways between the target gene and the molecule. We then provide a ranked list of molecules to explore.
 
 In addition, we do a wide scale analysis to compare between different genes
 but quantifying the significance of the the connectivity of their pathways using
 the following formular:
-X
-m∈molecuels
+$$\sum_{m∈molecuels} {\frac{Deg(m)}{D_1(m)^2+D_2(m)^2}}$$
 
-Deg(m)
-D1(m)
-2 + D2(m)
-2
-
-Where D1, D2 are the distances between a molecule and the respective genes,
-and Deg(m) is the significance of a particular molecule specified by the number
+Where $D_1$, $D_2$ are the distances between a molecule and the respective genes, and $Deg(m)$ is the significance of a particular molecule specified by the number
 of its interactions.
 
+![alt text](https://github.com/katlovescats2/Harvard-Rare-Disease-Hackathon-2024/blob/main/IDI%20Labs/Figure%202.png "Figure 2")
 
 We ran a similar analysis to quantify the similarity of the target gene, FIG4
 in our case, to other diseases for a cure is available with the hopes of finding
 common pathways for available drugs which could alleviate the symptoms of
 the genetic diseases.
+
 Below Figure. 2 we show the similarity distribution of cured diseases and
 the FIG4 gene. This provides an avenue for exploring symptomatic cures for
 patients using market available drugs.
