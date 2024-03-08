@@ -21,13 +21,13 @@ FIG4 to generate predicted pathogenicity scores. We label 438 total variants tha
 missense mutations in the protein (single AA missense) and are able to characterize many
 variants of unknown significance present in ClinVar as potentially pathogenic or benign (Fig 1).
 
+![alt text](https://github.com/katlovescats2/Harvard-Rare-Disease-Hackathon-2024/blob/main/Team%207/Fig1.png "Fig 1")
 ### Fig 1: Mutational landscape differences between CinVar (top) and AlphaMissense (bottom) pathogenicity predictions. ClinVar predictions are majority VUS (orange), while AlphaMissense classifies most VUS into benign or pathogenic.
-
-![alt text](link "Fig 1")
 
 We also examine the entire scope of potential missense mutations across Fig4 and use AlphaMissense to evaluate pathogenicity. When doing so, we see that missense mutations to residues 480 - 550 are high pathogenicity, which corresponds to the active site and a binding
 region of Vac14.
 
+![alt text](https://github.com/katlovescats2/Harvard-Rare-Disease-Hackathon-2024/blob/main/Team%207/Fig2.png "Fig 2")
 ### Fig 2: Mutational landscape of all potential missense mutations for Fig4 and associated pathogenicity predictions
 
 Additionally, we generate a predicted complex between Fig4 and Vac14 using MegaDock, and
@@ -35,4 +35,5 @@ enrich the structure using average pathogenicity, showing sites of high pathogen
 binding region of Vac14. Additionally, the pathogenicity of I41T is very high (0.97) and present at
 the Vac14 binding region (Fig 3)
 
+![alt text](https://github.com/katlovescats2/Harvard-Rare-Disease-Hackathon-2024/blob/main/Team%207/Fig3.png "Fig 3")
 ### Fig 3: Predicted binding structure using MegaDock. Coloring by pathogenicity (red for higher values). Structure of I41T variant highlighted, and present in loop region of very high pathogenicity.
