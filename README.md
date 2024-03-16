@@ -19,4 +19,4 @@ Welcome! This is a repository with links to the projects completed during the in
 | FTIR and INAD      | Team 18     |   INADCure Foundation | Link | 
 | Milo, a digital speech therapist for children      | Rare Talents     | International FOXP1 Foundation | Link | 
 | Tackling FOXP1 through Amino Acid Sequence Analysis      | The GENEiuses     |  International FOXP1 Foundation | Link | 
-| ALD Awareness Campaign      | Team 5     |   ALD Connect / ALS Association | Link | 
+|   Enhancing Awareness and Education for Adrenoleukodystrophy (ALD) Using AI-Driven Content Creation     | Team 5     |   ALD Connect / ALS Association | Link | 
