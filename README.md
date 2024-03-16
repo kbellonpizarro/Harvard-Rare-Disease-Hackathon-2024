@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/katlovescats2/Harvard-Rare-Disease-Hackathon-2024/blob/main/header.png "Header")
 
-Welcome! This is a repository with links to the projects completed during the inaugural Harvard Rare Disease Hackathon, which ran from March 2nd to March 3rd, 2024, and was held on Harvard's campus and virtually. During the event, undergraduate and graduate students from Harvard, MIT, Northeastern, CalTech, George Mason, National Uni. of Singapore, Boston University, and more gathered to tackle rare diseases for 48 hours. For more info about the hackathon, please visit www.harvard-rarediseases.org. For any questions about any projects, or to get in contact with any teams, please reach out to harvardrarediseases@gmail.com.
+Welcome! This is a repository with links to the projects completed during the inaugural Harvard Rare Disease Hackathon, which ran from March 2nd to March 3rd, 2024, and was held on Harvard's campus and virtually. During the event, undergraduate and graduate students from Harvard, MIT, Northeastern, CalTech, George Mason, National University of Singapore, Boston University, and more gathered to tackle rare diseases for 48 hours. For more info about the hackathon, please visit www.harvard-rarediseases.org. For any questions about any projects, or to get in contact with any teams, please reach out to harvardrarediseases@gmail.com.
 
 
 | Project Summary | Team  | Partner organization | Link |
