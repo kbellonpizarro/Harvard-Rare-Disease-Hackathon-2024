@@ -9,7 +9,7 @@ Welcome! This is a repository with links to the projects completed during the in
 | :-------------: |:-----------------:| :-----------:| :-------------: |
 | Speech-to-Text and Speech-to-Speech for People Affected by Scanning Speech  | Team 25 | Hypertrophic Olivary Degeneration Association (HODA) | [Link](../main/Team%2025) | 
 | Analyzing ALD Targets and Current Therapeutics | Team 13     | ALD Connect | Link | 
-| Rare Connect: A platform bridging the gap between individuals affected by rare conditions, medical professionals, and research institutions      | RareConnect    | All  | Link | 
+| Rare Connect: A platform bridging the gap between individuals affected by rare conditions, medical professionals, and research institutions      | RareConnect    | All  | [Link](../main/Rare%20Connect) | 
 | Characterizing FIG4 variants of unknown significance (VUS) using AlphaMissense | Team 7  | CureCMT4J | Link | 
 | JellyByte: Rare Diseases Pathway Exploration Framework  | IDI Labs | All | Link | 
 | Neighbor FOXP1: Mutation variants attributor | Team 14   |  International FOXP1 Foundation | Link | 
