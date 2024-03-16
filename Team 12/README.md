@@ -9,11 +9,7 @@ We constructed a three-pronged approach of utilities as part of our solution: (1
 
 ### I) Creating Surface Model
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kbellonpizarro/Harvard-Rare-Disease-Hackathon-2024/blob/main/Team%2012/Figure%201.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/kbellonpizarro/Harvard-Rare-Disease-Hackathon-2024/blob/main/Team%2012/Figure%201.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/kbellonpizarro/Harvard-Rare-Disease-Hackathon-2024/blob/main/Team%2012/Figure%201.png">
-</picture>
+![alt text](https://github.com/kbellonpizarro/Harvard-Rare-Disease-Hackathon-2024/blob/main/Team%2012/Figure%201.png "Figure 1")
 
 A weekly progress monitoring system was developed, creating a 3D representation of the patient’s foot geometry for generation of adjustment recommendations.  
 _Pin-art inspired mold:_ A box will be constructed with an array of closely spaced pins protruding upwards from its base. The pins will be arranged in a regular grid pattern, creating a flat, pressure-sensitive surface.  
@@ -29,14 +25,14 @@ _Heatmap generation_: Once the dots are identified, the app will employ a cluste
 _Deep Q-learning for pressure optimization_: A pre-trained Deep Q-learning model will translate from the generated heatmap data into boot pressure adjustment commands. Deep Q-learning with asynchronous off-policy updates is a reinforcement learning technique well-suited for robotic manipulation due to its ability to learn optimal actions through trial and error within a simulated environment. $^4$ In this case, the model will be trained using simulated foot pressure data to learn the optimal sequence of pressure adjustments within the customizable brace that minimizes localized pressure and discomfort on the foot.
 
 ### III) Customizable Boot
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kbellonpizarro/Harvard-Rare-Disease-Hackathon-2024/blob/main/Team%2012/boot.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/kbellonpizarro/Harvard-Rare-Disease-Hackathon-2024/blob/main/Team%2012/boot.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/kbellonpizarro/Harvard-Rare-Disease-Hackathon-2024/blob/main/Team%2012/boot.png">
-</picture>
 
 Current braces prioritize mobility and pure functionality over muscular dystrophy prevention. Addressing limitations of existing braces: The design of the customizable boot will address the shortcomings identified in existing non-adjustable braces. Existing braces often come in predetermined sizes, which can lead to improper fit and pressure distribution on individual feet. The human foot exhibits significant anatomical variation, making a one-size-fits-all approach ineffective and potentially harmful. The resulting improper pressure distribution within a brace can contribute to the development of blisters, calluses, and even fractured bones in severe cases. $^{2,3}$
 Our customizable boot will be equipped with adjustable straps with adjustments instructed through the AI model within the app, dynamically modifying the pressure distribution within the boot based on the individual's foot morphology and pressure distribution data obtained from the surface model (see Figure 2).
+
+![alt text](https://github.com/kbellonpizarro/Harvard-Rare-Disease-Hackathon-2024/blob/main/Team%2012/boot.png "Figure 2")  
+Figure 2: 3D render of customizable boot  
+
+
 The boot will address the following key physiological challenges $^3$:  
 _Angular equilibrium and ankle stability_: The boot will incorporate inflatable compartments mimicking the function of the Peroneus Brevis and Tibialis Posterior muscles, providing targeted pressure to restore proper ankle alignment and stability.  
 _High arch prevention and foot drop_: An inflatable compartment mimicking the Tibialis Anterior muscle will be strategically positioned to prevent the development of a high arch and foot drop, both common complications in certain foot conditions.  
