@@ -13,7 +13,7 @@ Welcome! This is a repository with links to the projects completed during the in
 | Characterizing FIG4 variants of unknown significance (VUS) using AlphaMissense | Team 7  | CureCMT4J | Link | 
 | JellyByte: Rare Diseases Pathway Exploration Framework  | IDI Labs | All | Link | 
 | Neighbor FOXP1: Mutation variants attributor | Team 14   |  International FOXP1 Foundation | Link | 
-| Friends of ADCY5: Social Network Analysis using Neo4j      | Team 4    |   ADCY5.org | Link | 
+| Friends of ADCY5: Social Network Analysis using Neo4j      | Team 4    |   ADCY5.org | [Link](https://github.com/Jnguye84/rarediseases) | 
 | Addressing CMT4J/FIG4 deficiency using a pressure-reducing customizable boot | Team 12 |  CureCMT4J | Link | 
 | Predicting Low Lipid Levels for Abetalipoproteinemia (ABL)   | ABL Hackers     |   ABL+ Foundation | Link | 
 | FTIR and INAD      | Team 18     |   INADCure Foundation | Link | 
