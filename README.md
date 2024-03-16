@@ -16,7 +16,7 @@ Welcome! This is a repository with links to the projects completed during the in
 | Friends of ADCY5: Social Network Analysis using Neo4j      | Team 4    |   ADCY5.org | [Link](https://github.com/Jnguye84/rarediseases) | 
 | Addressing CMT4J/FIG4 deficiency using a pressure-reducing customizable boot | Team 12 |  CureCMT4J | [Link](../main/Team%2012) | 
 | Predicting Low Lipid Levels for Abetalipoproteinemia (ABL)   | ABL Hackers     |   ABL+ Foundation | [Link](../main/ABL%20Hackers) | 
-| FTIR and INAD      | Team 18     |   INADCure Foundation | [Link](../main/Team%2018) | 
+| FTIR and INAD: New Diagnostics for INAD      | Team 18     |   INADCure Foundation | [Link](../main/Team%2018) | 
 | Milo, a digital speech therapist for children      | Rare Talents     | International FOXP1 Foundation | [Link](../main/Rare%20Talents) | 
 | Tackling FOXP1 through Amino Acid Sequence Analysis      | The GENEiuses     |  International FOXP1 Foundation | [Link](../main/The%20GENEiuses) | 
 |   Enhancing Awareness and Education for Adrenoleukodystrophy (ALD) Using AI-Driven Content Creation     | Team 5     |   ALD Connect / ALS Association | [Link](../main/Team%205) | 
