@@ -1,7 +1,7 @@
+# Tackling FOXP1 through Amino Acid Sequence Analysis
+
 Roshni Parulekar-Martins, Michael Samuel, Jason Wang, Sharon Zhu  
 March 3, 2024 
-
-# Tackling FOXP1 through Amino Acid Sequence Analysis
 
 The Forkhead box protein P1 (FOXPI) is a transcription factor encoded by the FOXP gene in humans. This protein plays a crucial role in the proper development of the brain, heart, and lung in mammals. It is a member of the large FOX family of transcription factors, which are vital in regulating the expression of other genes. FOXP1 syndrome, a rare disease, is caused by mutations or changes to the FOXP1 gene. This syndrome is associated with intellectual disability, language deficits, autism spectrum disorder, hypotonia, and congenital anomalies, including mild dysmorphic features, and brain, cardiac, and urogenital abnormalities. Thus, FOXP1 plays a significant role in human development and its disruption can lead to a range of developmental delays and medical needs. 
 
